@@ -77,7 +77,7 @@ const ImageGrid = () => {
 
       {loading && (
         <h3 style={{ textAlign: "center", margin: "20px" }}>
-          🔄 Loading more images...
+          Loading more images...
         </h3>
       )}
     </>
